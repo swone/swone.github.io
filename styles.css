@@ -2,13 +2,19 @@
 
 :root {
     --blue: #4f6cbb;
-    --gray: #f7f7f7;
+    --gray: #f7f7f7b2;
     --white: #fff;
 }
 
 .navTitle {
     color: var(--blue);
     font-size: 20px;
+    margin: 0;
+    font-weight: normal;
+}
+
+.navContainer {
+    color: var(--gray);
 }
 
 body {
