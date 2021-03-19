@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,600&display=swap');
+
+:root {
+    --blue: #4f6cbb;
+    --gray: #f7f7f7;
+    --white: #fff;
+}
+
+.navTitle {
+    color: var(--blue);
+    font-size: 20px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 .u-textCenter {
     text-align: center;
 }
